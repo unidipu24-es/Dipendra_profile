@@ -1,5 +1,4 @@
-# Dipendra_profile
-Welcome to My Embedded Solutions
+Welcome to My Embedded World
 # 💫 About Me:
 👋 Hi, I'm Dipendra Bodke!<br>🎓 Electronics & Telecommunication Engineer | <br>✅ PG Diploma in Embedded Systems & Design (Completed)<br>🔧 Skilled in Embedded C, STM32, FreeRTOS, IoT, and Firmware Development<br>💡 Passionate about building reliable embedded solutions and learning new technologies<br>📫 Let's connect: unidipu24es@gmail.com
 
@@ -14,10 +13,8 @@ Welcome to My Embedded Solutions
 ![](https://nirzak-streak-stats.vercel.app/?user=unidipu24-es&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unidipu24-es&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+"Great things are done by a series of small things brought together."  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=unidipu24-es&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
